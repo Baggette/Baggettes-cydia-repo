@@ -27,6 +27,27 @@ Description: High-speed iOS app decryption tool
 Author: KJCracks
 Name: Clutch 2.0.4
 
+Package: com.explusalpha.snes9xex
+Version: 1.5.14-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2013
+Depends: firmware (>= 3.1)
+Filename: ./debs/snes9xex_1.5.14-1.deb
+Size: 590706
+MD5sum: 297852017704a149c83b8d5af5d6d68f
+SHA1: baf6e818123eb661f1db93f1683be34e9eddbc1d
+SHA256: fe2e5c1758e74df835165d9bd105c7914ceee06f74d138eb07fab804440c535c
+Section: Games
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snes9xexData
+Description: SNES/Super Famicom Emulator; Snes9x 1.43
+Author: Robert Broglia <info@explusalpha.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snes9xexData
+Dev: explusalpha
+Icon: file:///Applications/Snes9xEX.app/icon-57.png
+Name: Snes9x EX
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.nathan.lowbatteryremover
 Version: 1.0.0
 Architecture: iphoneos-arm
